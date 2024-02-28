@@ -1,4 +1,4 @@
-# The Atlantic
+# The Atlantic By Valadar
 
 Construye una réplica del antiguo periódico norteamericano "The Atlantic".
 
